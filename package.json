@@ -1,8 +1,8 @@
 {
   "name": "cregex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "☕ Regular validation expressions (regex) for javascript🎉",
-  "main": "dist/src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "start": "yarn prebuild && gulp",
     "build": "yarn prebuild && gulp prod",
