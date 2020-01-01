@@ -1,6 +1,6 @@
 {
   "name": "cregex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "☕ Regular validation expressions (regex) for javascript🎉",
   "main": "dist/index.js",
   "scripts": {
