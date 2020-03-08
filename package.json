@@ -7,7 +7,7 @@
       "format": "prettier --write \"lib/**/*.ts\" ",
       "build": "yarn prebuild & tsc",
       "dev": "yarn prebuild & tsc -w",
-      "prebuild": "rimraf dist"
+      "prebuild": "rimraf lib & rimraf dist"
    },
    "type": "index.d.ts",
    "repository": {
