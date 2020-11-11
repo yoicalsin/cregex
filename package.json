@@ -38,7 +38,7 @@
       "@types/node": "^13.1.2",
       "del": "^5.1.0",
       "gulp": "^4.0.2",
-      "gulp-sourcemaps": "^2.6.5",
+      "gulp-sourcemaps": "^3.0.0",
       "gulp-typescript": "^6.0.0-alpha.1",
       "gulp-uglify": "^3.0.2",
       "jest": "^24.9.0",
